@@ -1,0 +1,136 @@
+﻿@using Product__Application.Constants;
+@using Product__Application.ViewModel;
+
+@model GetAllViewModel
+
+
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    .img-fluid {
+        height: 200px;
+        width: 200px;
+    }
+
+    thead {
+        background-color: #333;
+        color: #fff;
+        border-bottom: 2px solid #ddd;
+    }
+
+        thead th {
+            padding: 12px;
+            text-align: left;
+        }
+
+    tbody tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    tbody td {
+        padding: 12px;
+    }
+
+    tbody tr:hover {
+        background-color: #e6e6e6;
+        transition: background-color 0.3s ease;
+    }
+
+    td img:hover {
+        transform: scale(1.1);
+        transition: transform 0.3s ease;
+    }
+
+    a:hover {
+        color: #333;
+        border-bottom: 2px solid #333;
+        transition: border-bottom 0.3s ease, color 0.3s ease;
+    }
+
+    tbody tr:focus {
+        background-color: #f7f7f7;
+        outline: none;
+        box-shadow: 0 0 5px #ddd;
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    button {
+        background-color: #333;
+        color: #fff;
+        border: none;
+        padding: 10px 16px;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 4px;
+        margin-top: 20px;
+    }
+
+        button:hover {
+            background-color: #222;
+            transition: background-color 0.3s ease;
+        }
+
+</style>
+
+<header>
+    <nav id="sidebarMenu" class="collapse d-lg-block sidebar collapse bg-white">
+        <div class="position-sticky">
+            <div class="list-group list-group-flush mx-3 mt-4">
+                @foreach (var item in Model.Categories)
+                {
+                    <a asp-action="GetProducByCategory" asp-controller="Product" asp-route-categId="@item.Id" class="list-group-item list-group-item-action py-2 ripple" aria-current="true">
+                        <i class="fas fa-tachometer-alt fa-fw me-3"></i><span>@item.Name</span>
+                    </a>
+                }
+
+            </div>
+        </div>
+    </nav>
+</header>
+
+<table>
+    <thead>
+        <tr>
+            <th>     Images</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Duration</th>
+            <th>StartDate</th>
+
+            <th>Category</th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Products)
+        {
+            <tr>
+                <td><img src="/Images/@item.Image" class="img-fluid" alt="oasdad"></td>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Duration</td>
+                <td>@item.StartDate</td>
+                <td>@item.Category.Name</td>
+                <td><a asp-action="GetProductDetail" asp-controller="Product" asp-route-productId=@item.Id>See details</a></td>
+                @if (User.IsInRole(UserRoles.Admin))
+                {
+                    <td><a asp-action="DeleteProduct" asp-controller="Product" asp-route-productId=@item.Id>Delete</a></td>
+                    <td><a asp-action="EditProduct" asp-controller="Product" asp-route-productId=@item.Id>Edit</a></td>
+                }
+
+
+
+
+
+            </tr>
+        }
+</table>
+
+

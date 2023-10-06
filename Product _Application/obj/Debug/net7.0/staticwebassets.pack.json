@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Product _Application.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Product _Application.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\0a060ff8-dc94-46d8-bf48-555413de94bc.jpg",
+      "PackagePath": "staticwebassets\\Images\\0a060ff8-dc94-46d8-bf48-555413de94bc.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\1.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\10bc6554-6cc9-4dba-a921-70ecb882992a.jpg",
+      "PackagePath": "staticwebassets\\Images\\10bc6554-6cc9-4dba-a921-70ecb882992a.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\3.jpg",
+      "PackagePath": "staticwebassets\\Images\\3.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\4.jpg",
+      "PackagePath": "staticwebassets\\Images\\4.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\5.jpg",
+      "PackagePath": "staticwebassets\\Images\\5.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\52d3d6a9-40f7-4cae-a4a5-68de1e168d63.jpg",
+      "PackagePath": "staticwebassets\\Images\\52d3d6a9-40f7-4cae-a4a5-68de1e168d63.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\6bb2125e-64cb-4620-bb00-3365a3ac518f.jpg",
+      "PackagePath": "staticwebassets\\Images\\6bb2125e-64cb-4620-bb00-3365a3ac518f.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\7efa67de-7e1e-4962-a994-d221c124493c.jpg",
+      "PackagePath": "staticwebassets\\Images\\7efa67de-7e1e-4962-a994-d221c124493c.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\7f14d418-d7af-4873-a28e-4d7c494b47fd.jpg",
+      "PackagePath": "staticwebassets\\Images\\7f14d418-d7af-4873-a28e-4d7c494b47fd.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\93a454e5-aa9c-4e6c-ada5-47784beccfb7.jpg",
+      "PackagePath": "staticwebassets\\Images\\93a454e5-aa9c-4e6c-ada5-47784beccfb7.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\a6771e78-106a-4bfe-ab11-a937d8f3eb38.jpg",
+      "PackagePath": "staticwebassets\\Images\\a6771e78-106a-4bfe-ab11-a937d8f3eb38.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\ad8c72d5-3f63-4335-9515-78e0ddb432e1.jpg",
+      "PackagePath": "staticwebassets\\Images\\ad8c72d5-3f63-4335-9515-78e0ddb432e1.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\ba90b037-7c1d-4120-b8aa-1450c25e345a.jpg",
+      "PackagePath": "staticwebassets\\Images\\ba90b037-7c1d-4120-b8aa-1450c25e345a.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\d7e39ba8-9b74-4db4-a98b-09f1d5be03b7.jpg",
+      "PackagePath": "staticwebassets\\Images\\d7e39ba8-9b74-4db4-a98b-09f1d5be03b7.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\e5d22ab3-5dd1-4e38-891e-d7afe768cfaa.jpg",
+      "PackagePath": "staticwebassets\\Images\\e5d22ab3-5dd1-4e38-891e-d7afe768cfaa.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\e84cadb0-11ec-41e9-8dc5-7742a107436b.jpg",
+      "PackagePath": "staticwebassets\\Images\\e84cadb0-11ec-41e9-8dc5-7742a107436b.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\product1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product1.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\product2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product2.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\product3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product3.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\product4.jpg",
+      "PackagePath": "staticwebassets\\Images\\product4.jpg"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\Images\\product5.png",
+      "PackagePath": "staticwebassets\\Images\\product5.png"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\iti\\data\\ASP\\TaskXceed\\Product Catalog Web Application\\Product _Application\\Product _Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Product _Application.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Product _Application.props",
+      "PackagePath": "build\\Product _Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Product _Application.props",
+      "PackagePath": "buildMultiTargeting\\Product _Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Product _Application.props",
+      "PackagePath": "buildTransitive\\Product _Application.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
